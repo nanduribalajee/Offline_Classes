@@ -1,0 +1,63 @@
+Windows Commands
+----------------
+1) change the directory
+Ex: cd <dir_name>
+
+2) go to parents / previous folder
+Ex: cd ..
+
+3) go to previous to previous folder
+ex: cd ../..
+
+4) clear the screen
+Ex: cls
+
+5) get list of files in the given folder
+Ex: dir
+
+6) to execute a js file using node
+Ex: node <file_name>.js
+    node <file_name>
+	
+7) Create a Packge.json
+Ex: npm init
+
+8) Install any packge in global
+Ex: npm install -g <package_name>
+
+9) Install any packge in local
+Ex: npm install <packge_name>
+
+10) to update any package version
+Ex: npm update <package_name>
+
+11) to uninstall any package
+Ex: npm uninstall <package_name>
+
+12) to start the server using node JS
+Ex: npm start
+
+13) to install all the dependencies of an application
+Ex: npm install
+
+14) to run the test cases
+Ex: npm run test
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
